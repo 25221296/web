@@ -156,7 +156,7 @@ li {
 }
 
 /*--------------------------------
- Works
+ study abroad
 ---------------------------------*/
 .works-list {
   display: flex;
@@ -184,13 +184,13 @@ li {
 }
 
 .works-name {
-  font-size: 12px;
+  font-size: 35px;
   font-weight: bold;
   margin-top: 8px;
 }
 
 .works-info {
-  font-size: 10px;
+  font-size: 20px;
 }
 
 /*--------------------------------
